@@ -235,6 +235,12 @@ body.global-styles {
 #final {
     text-align: center;
 }
+.footer {
+
+    color: black;
+    margin-bottom: 10px;
+    display: inline-block
+}
 
 #logo-footer {
     position: sticky;
