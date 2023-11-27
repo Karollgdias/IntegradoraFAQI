@@ -257,6 +257,33 @@ body.global-styles {
 
 @media (max-width: 950px) {
 
+        .container {
+        display: block;
+
+    }
+
+    .curso {
+        margin: 15px 80px;
+        font-size: 8px;
+
+    }
+
+    .logo {
+        max-width: 80px;
+        margin: auto;
+        display: block;
+        width: 60%;
+    }
+
+    .button-acess {
+        font-size: 15px;
+        width: 250px;
+        height: 25px;
+        top: 55%;
+        left: 55%;
+
+    }
+
 
     .atalhos ul li a {
         font-size: 10px;
