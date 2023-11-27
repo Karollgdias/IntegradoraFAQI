@@ -236,14 +236,6 @@ body.global-styles {
     text-align: center;
 }
 
-.footer {
-
-    color: black;
-    margin-bottom: 10px;
-    display: inline-block
-    margin-left:8%;
-}
-
 #logo-footer {
     position: sticky;
     width: 20%;
